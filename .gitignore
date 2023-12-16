@@ -1,5 +1,6 @@
-.cmi
-.cmo
-.zip
-./firstdraw
-./parseur
+*.cmi
+*.cmo
+*.zip
+firstdraw
+parseur
+.DS_Store
