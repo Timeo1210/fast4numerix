@@ -1,0 +1,9 @@
+:= p 1;
+:= i 1;
+:= f 10;
+
+:= n + f 1;
+TantQue < i n Faire
+  := p * p i;
+  := i + i 1
+FinTq
